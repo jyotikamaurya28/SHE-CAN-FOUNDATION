@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #d9afd9, #97d9e1);
+}
+a {
+  text-decoration: none;
+}
+.button {
+  background: #ff007f;
+  color: white;
+  padding: 10px 15px;
+  margin-top: 15px;
+  border: none;
+  border-radius: 5px;
+}
+.button:hover {
+  background: #e60073;
+}
